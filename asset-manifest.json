@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/weatherap/static/css/main.c1822769.css",
+    "main.js": "/weatherap/static/js/main.19234ca6.js",
+    "static/media/cold.jpg": "/weatherap/static/media/cold.ec9a0c27050fb0d6b963.jpg",
+    "static/media/hot.jpg": "/weatherap/static/media/hot.e565ad6a386dcfdbe0c4.jpg",
+    "index.html": "/weatherap/index.html",
+    "main.c1822769.css.map": "/weatherap/static/css/main.c1822769.css.map",
+    "main.19234ca6.js.map": "/weatherap/static/js/main.19234ca6.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.c1822769.css",
+    "static/js/main.19234ca6.js"
+  ]
+}
